@@ -1,4 +1,5 @@
-# clonezoom-Flutter Fully Functional Vedio Conferencing App🎥
+# clonezoom - Flutter Fully Functional Vedio Conferencing App🎥
+video chat with the whole team. In fact, invite everyone you know. clonezoom is a fully encrypted video conferencing solution that you can use all day
 
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/206394662-de07d321-4943-429c-a722-22d10098433d.mp4
