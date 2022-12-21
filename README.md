@@ -2,7 +2,7 @@
 
 video chat with the whole team. In fact, invite everyone you know. clonezoom is a fully encrypted video conferencing solution using Jitsi Meet Plugin. More secure, more flexible, and completely free video conferencing.
 "Jitsi Meet is an open-source (Apache) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, secure and scalable video conferences."
-# 💡 Features
+# Features 💡
 ➊ Google Login and Registration using Firebase\
 ➋ Creating Meeting Room\
 ➌ Join Meeting Room\
