@@ -1,6 +1,6 @@
 # clonezoom - Flutter Fully Functional Vedio Conferencing App🎥
-video chat with the whole team. In fact, invite everyone you know. clonezoom is a fully encrypted video conferencing solution that you can use all day
-
+video chat with the whole team. In fact, invite everyone you know. clonezoom is a fully encrypted video conferencing solution using Jitsi Meet Plugin. More secure, more flexible, and completely free video conferencing.
+"Jitsi Meet is an open-source (Apache) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, secure and scalable video conferences."
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/206394662-de07d321-4943-429c-a722-22d10098433d.mp4
 # Screenshots
